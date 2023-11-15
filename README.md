@@ -13,7 +13,7 @@ Skips all Youtube ads | removes banner and sidebar ads | skips ads instantly.
 - Works on sites with embedded Youtube videos 😁
 - This skips all types of ads & It skips instantly!! 😲
 - This removes ads that come on the side and removes the incoming ad alert. 🙌
-- This skips unskippable ads by speeding up the video to a maximum playback rate of 16, (default 1) 💨
+- This skips unskippable ads by speeding up the video to a maximum playback rate of 16, (default 1) 😎
 
 <!-- ## Installation -->
 <!-- For Chrome or Brave: [Click Here 👇 to install](https://chrome.google.com/webstore/detail/total-privacy-for-whatsap/ahfbjljipkpgbknoognlpekjkpmibgkf) -->
